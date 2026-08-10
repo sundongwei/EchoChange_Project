@@ -5,7 +5,8 @@ Official project page for **EchoChange: A Diffusion Language Model with Dual-Pas
 ## Paper
 
 - **arXiv:** https://arxiv.org/abs/2608.01856
-- **Authors:** Dongwei Sun, Bowen Yao, Yujie Zhang, Pei Liu, Jing Yao, Xiangyong Cao
+- **Authors:** Dongwei Sun\*, Bowen Yao\*, Yujie Zhang, Pei Liu, Jing Yao, Xiangyong Cao
+- \* Equal contribution.
 
 ## Abstract
 
@@ -23,7 +24,9 @@ EchoChange is a multimodal discrete diffusion language model that reframes chang
 
 ### Online
 
-Visit the GitHub Pages site: **[sundongwei.github.io/EchoChange](https://sundongwei.github.io/EchoChange)**
+Visit the GitHub Pages site: **[sundongwei.github.io/EchoChange_Project](https://sundongwei.github.io/EchoChange_Project/)**
+
+Source code: **[github.com/sundongwei/EchoChange_Project](https://github.com/sundongwei/EchoChange_Project)**
 
 ### Offline
 
