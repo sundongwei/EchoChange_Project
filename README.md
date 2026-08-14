@@ -8,7 +8,7 @@ Official project page for **EchoChange: A Diffusion Language Model with Dual-Pas
 
 Visit the GitHub Pages site: **[sundongwei.github.io/EchoChange_Project](https://sundongwei.github.io/EchoChange_Project/)**
 
-Source code: **[github.com/sundongwei/EchoChange_Project](https://github.com/sundongwei/EchoChange)**
+Source code: **[github.com/sundongwei/EchoChange](https://github.com/sundongwei/EchoChange)**
 
 ## Paper
 
