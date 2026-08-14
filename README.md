@@ -2,6 +2,14 @@
 
 Official project page for **EchoChange: A Diffusion Language Model with Dual-Pass Remasking for Factual Remote Sensing Disaster Change Captioning**.
 
+## Viewing the Showcase
+
+### Online
+
+Visit the GitHub Pages site: **[sundongwei.github.io/EchoChange_Project](https://sundongwei.github.io/EchoChange_Project/)**
+
+Source code: **[github.com/sundongwei/EchoChange_Project](https://github.com/sundongwei/EchoChange_Project)**
+
 ## Paper
 
 - **arXiv:** https://arxiv.org/abs/2608.01856
@@ -19,20 +27,6 @@ EchoChange is a multimodal discrete diffusion language model that reframes chang
 - `site/` - Interactive research showcase (web app)
 - `Open EchoChange.html` - Self-contained offline showcase (open directly in a browser)
 - `cite.bib` - BibTeX citation entry
-
-## Viewing the Showcase
-
-### Online
-
-Visit the GitHub Pages site: **[sundongwei.github.io/EchoChange_Project](https://sundongwei.github.io/EchoChange_Project/)**
-
-Source code: **[github.com/sundongwei/EchoChange_Project](https://github.com/sundongwei/EchoChange_Project)**
-
-### Offline
-
-1. Download and extract the latest release ZIP.
-2. Double-click `Open EchoChange.html`.
-3. Navigate with the section header, bottom controls, arrow keys, mouse wheel, or touch gestures.
 
 ## Citation
 
